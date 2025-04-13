@@ -1,0 +1,1 @@
+export default function App() { return <div>딸깍 검색기</div>; }
